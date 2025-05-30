@@ -4,7 +4,7 @@
     <title>Spring MVC Demo</title>
 </head>
 <body>
-<h1>${message}</h1>
+<h1>HEllo greet</h1>
 </body>
 </html>
 
